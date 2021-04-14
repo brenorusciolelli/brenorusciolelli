@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://w7.pngwing.com/pngs/18/30/png-transparent-geek-girl-nerd-cartoon-cartoon-character-miscellaneous-hand-computer.png">
+<img align="right" width="400" height="400" src="https://cdn.pixabay.com/photo/2014/04/03/09/58/nerd-309457_960_720.png">
  
 # Welcome!
  
