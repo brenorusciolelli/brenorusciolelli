@@ -1,8 +1,19 @@
-<h3>Hellooo! 👋 Welcome to my profile # 🚀</3>
-<p>My name is Breno, I am 25 years old, I am trained in systems development analysis. I am a fullstack developer, currently working at TCM-BA developing projects in java, jsf and springboot. </p>
-
-
-                    
+<img align="right" width="400" height="400" src="https://w7.pngwing.com/pngs/18/30/png-transparent-geek-girl-nerd-cartoon-cartoon-character-miscellaneous-hand-computer.png">
+ 
+# Welcome!
+ 
+## I'm Breno Rusciolelhe Brito
+ 
+… My name is Breno, I am 25 years old, I am trained in systems development analysis. I am a fullstack developer, currently working at TCM-BA developing projects in java, jsf and springboot.
+ 
+ 
+## About me 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/brenorusciolelli/brenorusciolelli)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/breno-rusciolelhe-brito-82575b85/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](brenorusciolelli@gmail.com)
+ 
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
@@ -21,3 +32,11 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+
+
+
+
+
+
+                    
+
