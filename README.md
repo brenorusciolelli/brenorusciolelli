@@ -1,6 +1,6 @@
 <h3>Hellooo! 👋 Welcome to my profile # 🚀</3>
-<p>My name is Breno, I am 25 years old, I am trained in systems development analysis.</p>
-I am a fullstack developer, currently working at TCM-BA developing projects in java, jsf and springboot. 
+<p>My name is Breno, I am 25 years old, I am trained in systems development analysis. I am a fullstack developer, currently working at TCM-BA developing projects in java, jsf and springboot. </p>
+
 
                     
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
