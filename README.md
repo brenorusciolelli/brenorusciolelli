@@ -4,15 +4,12 @@
 
  <h2 align="center"> 
 <div aling="center" rel="noopener noreferrer" href="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif">
- <img src="https://github.com/rajput2107/rajput2107/raw/master/Assets/Earth.gif" width="24px" style="max-width:100%;"> texto
+ <img src="https://github.com/rajput2107/rajput2107/raw/master/Assets/Earth.gif" width="24px" style="max-width:100%;"> Hello world, I'm Breno!
 </div>
  </h2>
  
 </div>
 
- 
-## I'm Breno Rusciolelhe Brito
- 
 … My name is Breno, I am 25 years old, I am trained in systems development analysis. I am a fullstack developer, currently working at TCM-BA developing projects in java, jsf and springboot.
  
  
