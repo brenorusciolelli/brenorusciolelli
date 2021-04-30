@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://cdn.pixabay.com/photo/2014/04/03/09/58/nerd-309457_960_720.png">
+<img align="right" width="400" height="400" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
  
 # Welcome!
  
