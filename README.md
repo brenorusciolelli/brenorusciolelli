@@ -1,6 +1,9 @@
 <img align="right" width="300" height="300" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 
-<div aling="center">
+<a target="_blank"
+<div aling="center" rel="noopener noreferrer" href="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif">
+ <img src="https://github.com/rajput2107/rajput2107/raw/master/Assets/Earth.gif" width="24px" style="max-width:100%;">
+ <a/>
  <h2 align="center"> Welcome! </h2>
 </div>
 
