@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
+<img align="right" width="300" height="300" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
  
 # Welcome!
  
