@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://github.com/brenorusciolelli">
-    <img height="170em" align="left" src="https://camo.githubusercontent.com/df81f16f8c39e2a44ccb23ed4034c0d744f6c6885bfa42eb6dca8d51c31c54e8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6a756c69616e61706564726f736f2673686f775f69636f6e733d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=julianapedroso&amp;show_icons=true" style="max-width:100%;">
+    <img height="170em" align="left" src="https://camo.githubusercontent.com/df81f16f8c39e2a44ccb23ed4034c0d744f6c6885bfa42eb6dca8d51c31c54e8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6a756c69616e61706564726f736f2673686f775f69636f6e733d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=brenorusciolelli&amp;show_icons=true" style="max-width:100%;">
   </a>
 </p>
 
