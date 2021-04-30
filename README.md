@@ -1,6 +1,7 @@
 <img align="right" width="300" height="300" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
- 
-# Welcome!
+
+<div class=center>Welcome!</div>
+
  
 ## I'm Breno Rusciolelhe Brito
  
