@@ -1,7 +1,7 @@
 <img align="right" width="300" height="300" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 
 <div aling="center">
- <h2> Welcome! </h2>
+ <h2 align="center"> Welcome! </h2>
 </div>
 
  
