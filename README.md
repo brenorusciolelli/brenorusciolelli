@@ -2,9 +2,9 @@
 <div aling="center">
 
 
- <h2 align="center"> texto
+ <h2 align="center"> 
 <div aling="center" rel="noopener noreferrer" href="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif">
- <img src="https://github.com/rajput2107/rajput2107/raw/master/Assets/Earth.gif" width="24px" style="max-width:100%;">
+ <img src="https://github.com/rajput2107/rajput2107/raw/master/Assets/Earth.gif" width="24px" style="max-width:100%;"> texto
 </div>
  </h2>
  
