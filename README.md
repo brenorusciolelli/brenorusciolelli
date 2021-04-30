@@ -1,6 +1,6 @@
 <img align="right" width="300" height="300" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 
-<div class=center>
+<div aling="center">
  <h2> Welcome! </h2>
 </div>
 
