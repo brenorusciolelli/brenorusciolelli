@@ -2,12 +2,12 @@
 <div aling="center">
 
 
- <h2 align="center">
-  Hello!
- </h2>
- <div aling="center" rel="noopener noreferrer" href="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif">
+ <h2 align="center"> texto
+<div aling="center" rel="noopener noreferrer" href="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif">
  <img src="https://github.com/rajput2107/rajput2107/raw/master/Assets/Earth.gif" width="24px" style="max-width:100%;">
 </div>
+ </h2>
+ 
 </div>
 
  
