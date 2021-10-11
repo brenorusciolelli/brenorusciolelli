@@ -10,7 +10,7 @@
  
 </div>
 
-… My name is Breno, I am 25 years old, I am trained in systems development analysis. I am a fullstack developer, currently working at TCM-BA developing projects in Java, JSF, Jboss Seam, RichFaces, PrimeFaces, Hibernate / JPA, Angular, SQL Server, MySQL, PostgreSQL, Git and Gitflow, BPM tool based on flowchart, OpenShif and Docker containers and composing the Scrum team of the project in the TCM Java cell /BA
+… My name is Breno, I am 26 years old, I am trained in systems development analysis. I am a fullstack developer, currently working at TCM-BA developing projects in Java, JSF, Jboss Seam, RichFaces, PrimeFaces, Hibernate / JPA, Angular, SQL Server, MySQL, PostgreSQL, Git and Gitflow, BPM tool based on flowchart, OpenShif and Docker containers and composing the Scrum team of the project in the TCM Java cell /BA
  
  
 ## About me 
