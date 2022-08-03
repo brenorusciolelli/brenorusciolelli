@@ -15,17 +15,17 @@ Hi, my name is Breno, I am full stack developer.
 03 years experience in software development.
 
 🏡 Skills:
-✔️ Java 7 , 8 , 11 | Dart
-✔️ Spring Framework | Spring Boot | Spring Security | Spring Cloud | Spring DataJPA | Spring MVC .
-✔️ Hibernate | JPA | JDBC | Maven | Gradle.
-✔️ Docker | Kubernetes | Restful API | SOLID | Design Patterns.
-✔️ Vivência em ambiente Ágil | Integração Continua | Scrum | Git | GitHub | Jenkins
-✔️ Programação Orientada a Objetos .
-✔️ Clean Code | JUnit | TDD | BDD | Jboss / WildFly | Tomcat | Webshepere
-✔️ Autenticação e Autorização com JWT.
-✔️ JavaEE - MVC - JSF | PrimeFaces.
-✔️ SQL | MySQL | PostgreSQL | SQL Server | Firebase | Redis | Elasticsearch
-✔️ Angular | Flutter | Bootstrap | HTML5 | CSS3 
+✔️ Java 7 , 8 , 11 | Dart<br>
+✔️ Spring Framework | Spring Boot | Spring Security | Spring Cloud | Spring DataJPA | Spring MVC .<br>
+✔️ Hibernate | JPA | JDBC | Maven | Gradle.<br>
+✔️ Docker | Kubernetes | Restful API | SOLID | Design Patterns.<br>
+✔️ Vivência em ambiente Ágil | Integração Continua | Scrum | Git | GitHub | Jenkins<br>
+✔️ Programação Orientada a Objetos .<br>
+✔️ Clean Code | JUnit | TDD | BDD | Jboss / WildFly | Tomcat | Webshepere<br>
+✔️ Autenticação e Autorização com JWT.<br><br><br><br>
+✔️ JavaEE - MVC - JSF | PrimeFaces.<br><br><br>
+✔️ SQL | MySQL | PostgreSQL | SQL Server | Firebase | Redis | Elasticsearch<br><br>
+✔️ Angular | Flutter | Bootstrap | HTML5 | CSS3 <br>
 ✔️ Cloud (AWS) EC2, RDS, S3
  
  
