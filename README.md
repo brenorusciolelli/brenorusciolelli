@@ -10,7 +10,23 @@
  
 </div>
 
-… My name is Breno, I am 26 years old, I am trained in systems development analysis. I am a fullstack developer, currently working at TCM-BA developing projects in Java, JSF, Jboss Seam, RichFaces, PrimeFaces, Hibernate / JPA, Angular, SQL Server, MySQL, PostgreSQL, Git and Gitflow, BPM tool based on flowchart, OpenShif and Docker containers and composing the Scrum team of the project in the TCM Java cell /BA
+Hi, my name is Breno, I am full stack developer.
+
+03 years experience in software development.
+
+🏡 Skills:
+✔️ Java 7 , 8 , 11 | Dart
+✔️ Spring Framework | Spring Boot | Spring Security | Spring Cloud | Spring DataJPA | Spring MVC .
+✔️ Hibernate | JPA | JDBC | Maven | Gradle.
+✔️ Docker | Kubernetes | Restful API | SOLID | Design Patterns.
+✔️ Vivência em ambiente Ágil | Integração Continua | Scrum | Git | GitHub | Jenkins
+✔️ Programação Orientada a Objetos .
+✔️ Clean Code | JUnit | TDD | BDD | Jboss / WildFly | Tomcat | Webshepere
+✔️ Autenticação e Autorização com JWT.
+✔️ JavaEE - MVC - JSF | PrimeFaces.
+✔️ SQL | MySQL | PostgreSQL | SQL Server | Firebase | Redis | Elasticsearch
+✔️ Angular | Flutter | Bootstrap | HTML5 | CSS3 
+✔️ Cloud (AWS) EC2, RDS, S3
  
  
 ## About me 
