@@ -22,8 +22,8 @@ Hi, my name is Breno, I am full stack developer.
 ✔️ Vivência em ambiente Ágil | Integração Continua | Scrum | Git | GitHub | Jenkins<br>
 ✔️ Programação Orientada a Objetos .<br>
 ✔️ Clean Code | JUnit | TDD | BDD | Jboss / WildFly | Tomcat | Webshepere<br>
-✔️ Autenticação e Autorização com JWT.<br><br><br><br>
-✔️ JavaEE - MVC - JSF | PrimeFaces.<br><br><br>
+✔️ Autenticação e Autorização com JWT.<br>
+✔️ JavaEE - MVC - JSF | PrimeFaces.<br><br>
 ✔️ SQL | MySQL | PostgreSQL | SQL Server | Firebase | Redis | Elasticsearch<br><br>
 ✔️ Angular | Flutter | Bootstrap | HTML5 | CSS3 <br>
 ✔️ Cloud (AWS) EC2, RDS, S3
